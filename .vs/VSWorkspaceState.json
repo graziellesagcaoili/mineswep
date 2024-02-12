@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\components",
+    "\\functions"
   ],
-  "SelectedNode": "\\GameLogic.js",
+  "SelectedNode": "\\components\\modal.js",
   "PreviewInSolutionExplorer": false
 }
